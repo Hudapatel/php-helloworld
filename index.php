@@ -4,7 +4,7 @@
  </head>
  <body>
  <?php echo '<p>Welcome to Loyalist College
- <br> clod2000
- <br>Huda Patel</p>'; ?> 
+ 
+ <br><p color:blue, font 10px> Huda Patel</p>'; ?> 
  </body>
 </html>
